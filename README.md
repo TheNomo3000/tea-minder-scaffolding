@@ -44,7 +44,7 @@ Todas las peticiones serán http reales
 
 Dentro de proyecto base ya viene configurado para poder usar un proxy para conectar con `json-server`, además de un archivo `db.json` con algunos datos de prueba.
 
-### AuthComponents
+### AuthComponents (opcional)
 
 Debe contar con una pantalla de login y registro, como no contamos con un backend que nos proporcione la capacidad de hacer login o registro, usaremos el paquete `json-server`.
 
