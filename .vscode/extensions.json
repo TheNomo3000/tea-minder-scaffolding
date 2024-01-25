@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "angular.ng-template",
+        "dbaeumer.vscode-eslint",
+        "formulahendry.auto-rename-tag",
+        "lucono.karma-test-explorer",
+        "zainchen.json",
+        "esbenp.prettier-vscode",
+        "pkief.material-icon-theme"
+    ]
+}
